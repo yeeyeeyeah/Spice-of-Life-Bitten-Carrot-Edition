@@ -1,10 +1,10 @@
 <p align="center">
-	<img width=256px src="GitHub/logo.png" />
+	<img width=256px src="GitHub/bittencarrot.jpg" />
 </p>
 
 A mod designed to encourage dietary variety! It does so by **rewarding** the player for eating a variety of foods instead of **punishing** them for failing to diversify. Instead of using the stick we use the carrot!
 
-This mod is not a fork of Spice of Life, although it is named similarly as it is a similar concept, but reversed in terms of the effects!
+This mod is another fork of Spice of Life: Carrot Edition.
 
 ### Features
 
@@ -15,6 +15,11 @@ This mod comes with a custom config to set the player's starting hearts (which c
 The default configuration allows a player to go from 10 to 20 hearts by eating most non-poisonous foods in vanilla Minecraft. However, it is mostly designed for modpack authors who want to add Pam's HarvestCraft or other food mods to their modpack, because it adds interest and incentivizes players to explore a complex cooking system. Finally, the niche "chef" players of the Minecraft world will have a place of honor next to the miners and engineers!
 
 In order to track your progress, SoL: Carrot offers a handy book called the Food Book, crafted simply by combining a book and a carrot in any shape. This book offers a visualization of your overall progress, as well as lists of the foods you have and have not eaten. (The latter can be disabled in config.)
+
+### Changes
+-Removed The Messages Notfication
+-Adjusted The Default Config
+-Bitten The Carrot
 
 ### Commands
 
